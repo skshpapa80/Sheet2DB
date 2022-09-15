@@ -297,6 +297,7 @@ var
     i, j, row : Integer;
 begin
     try
+        // Excel Automation
         oXL := CreateOleObject('Excel.Application');
         oXL.Visible := False;
         oXL.DisplayAlerts := False;
