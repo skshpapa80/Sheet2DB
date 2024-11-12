@@ -7,4 +7,4 @@ Excel 데이터를 DB Table 구조에 맞춰서 입력하기가 때로는 막 �
 
 Make by : skshpapa80@gmail.com
 
-Blog : https://skshpapa80.github.io/2022/04/28/Delphi-Sheet2DB/
+Blog : https://www.raycho12.pe.kr/2022/04/28/sheet2db-excel-db-upload/
